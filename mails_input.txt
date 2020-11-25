@@ -1,0 +1,15 @@
+2018-10-22 abc@gmail.com xyz@gmail.com, amazon@gmail.com Hi ! Are u ok?
+2018-10-22 fake@hotmail.com prey@gmail.com IMPORTANT!
+2020-08-22 marie_curie@hotmail22.com tesla@gmail.com Whats up?
+2099-07-12 ikilinc@outlook.com mm_65@gmail.com ayayayayayy !!!
+2099-07-12 ikilinc@gmail.com mm_65@gmail.com ayayayayayy WARNING !!!
+2099-07-12 ikilinc@hotmail.com mm_65324@gmail.com,ben.?'^@hotmail.com ayayayayayy !!!
+2099-07-12 ikilinc@outlook.com lu65@gmail.com,crylater@hotmail.com,um78?@gmail.com valid !!!
+2199-07-12 ikilinc@outlook.com lu65@gmail.com,crylater@hotmail.com,um78?@gmail.com invalid !!!
+2099-00-15 ikilinc@outlook.com lu65@gmail.com,crylater@hotmail.com,um78?@gmail.com invalid !!!
+2099-07-31 ikilinc@outlook.com lu65@gmail.com,crylater@hotmail.com,um78?@gmail.com invalid !!!
+2099-07-12 ikilinc@outlook.com lu65@gmail.com
+2020-07-12 ikilinc@hotmail.com mm_65324@gmail.com,ben?//@hotmail.com hadi ama !!!
+2020-07-12 ikilinc@hotmail.com mm_65324@gmail.com,ben?//45@hotmail.com,ik@hotmail.com hadi ama 3. mail doğru sadece !!!
+2020-07-12 ikilinc@hotmail.com mm_65324@gmail.com,ik@hotmail.com,ben?//222@hotmail.com hadi ama 2.mail doğru sadece !!!
+2020-07-12 ikilinc@hotmail.com ik@hotmail.com,mm_65324@gmail.com,ben?//222@hotmail.com hadi ama 1. mail doğru sadece !!!
